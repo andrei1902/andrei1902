@@ -1,6 +1,6 @@
 # Hey everybody, Andrei here!
 
-### I'm a **full stack javascript developer**, amateur guitarist, avid reader and Starcraft 2 player.
+### I'm a __full stack javascript developer__, amateur guitarist, avid reader and Starcraft 2 player.
 ___
 #### You can reach me at:
 * [Private website](https://andreii.dev)
@@ -11,7 +11,7 @@ ___
 * [x] vanilla javascript
 * [x] jquery
 * [x] react
-* [] vue
+* [ ] vue
 
 #### Back-end tech stack (current and learning):
 * [x] vanilla nodejs
@@ -19,13 +19,13 @@ ___
 * [x] SQL
 * [x] Couchbase
 * [x] Mongodb
-* [] .NET
+* [ ] .NET
 
 #### Testing and deployment (current and learning):
 * [x] mocha
 * [x] jest
 * [x] pm2
-* [] docker
+* [ ] docker
 ___
 
 
