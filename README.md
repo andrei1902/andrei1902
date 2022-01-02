@@ -13,13 +13,13 @@ ___
 * [x] react
 * [ ] vue
 
-#### Back-end tech stack (current and learning):
-* [x] vanilla nodejs
-* [x] express
-* [x] SQL
-* [x] Couchbase
-* [x] Mongodb
-* [ ] .NET
+#### Back-end tech (current and learning):
+* [x] [Node](https://nodejs.org/en/)
+* [x] [Express](https://expressjs.com/)
+* [ ] [Nest](https://nestjs.com/)
+* [x] [SQL](https://www.mysql.com/)
+* [x] [Couchbase](https://www.couchbase.com/)
+* [x] [Mongodb](https://www.mongodb.com/)
 
 #### Testing and deployment (current and learning):
 * [x] mocha
