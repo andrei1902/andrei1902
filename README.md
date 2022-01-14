@@ -7,10 +7,13 @@ ___
 * [LinkedIn](https://www.linkedin.com/in/andrei-ionita-62101880/)
 ___
 
-#### Front-end tech stack (current and learning):
-* [x] vanilla javascript
-* [x] jquery
-* [x] react
+#### Front-end tech (current and learning):
+* [x] [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) &#x1F3D7;&#x1F3D7;&#x1F3D7;
+* [x] [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [x] vanilla [ECMAScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+* [x] [reactjs](https://reactjs.org/)
+* [x] [jquery](https://jquery.com/)
+* [x] [redux](https://redux.js.org/)
 * [ ] vue
 
 #### Back-end tech (current and learning):
