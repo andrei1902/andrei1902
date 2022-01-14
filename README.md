@@ -9,8 +9,8 @@ ___
 
 #### Front-end tech (current and learning):
 * [x] [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) &#x1F3D7;&#x1F3D7;&#x1F3D7;
-* [x] [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [x] vanilla [ECMAScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+* [x] [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) &#x1F3A8;&#x1F3A8;&#x1F3A8;
+* [x] vanilla [ECMAScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources) 	&#x1F916;	&#x1F916;	&#x1F916;
 * [x] [reactjs](https://reactjs.org/)
 * [x] [jquery](https://jquery.com/)
 * [x] [redux](https://redux.js.org/)
